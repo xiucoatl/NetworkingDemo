@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     super.viewDidLoad()
     charactersTableView.delegate = self
     charactersTableView.dataSource = self
-    // Do any additional setup after loading the view.
+    // Do any additional setup after loading the view. ejemplos
   }
   
   override func viewWillAppear(_ animated: Bool) {
